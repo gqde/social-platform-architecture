@@ -8,6 +8,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ---
+## ⚠️ Project Status
+
+> **🚧 This project is currently under active development.**
 
 ## 📋 Table of Contents
 
